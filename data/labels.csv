@@ -2,7 +2,6 @@ ClassId;Name
 6;Speed limit (70km/h)
 12;Dont Go Left or Right
 13;Dont Go Right
-22;Cenas
 24;Go Right
 37;Children crossing
 38;Dangerous right curve
@@ -11,6 +10,3 @@ ClassId;Name
 46;Zig-zag Curve
 49;Unknown 5
 50;Fences
-54;Do Not Park
-55;Do
-57;Forbidden
